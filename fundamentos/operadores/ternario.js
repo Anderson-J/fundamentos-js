@@ -1,4 +1,3 @@
-<script>
     const idadeMinima = 18;
     const idadeCliente = 16;
 
@@ -19,4 +18,3 @@
 
 
     console.log(podeBeber ? `As opções são: ${bebidaMaior} e ${bebidaMenor}` : `A opção disponível é: ${bebidaMenor}`);
-</script>

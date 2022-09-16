@@ -1,4 +1,3 @@
-<script>
     const texto0 = "Olá";
     const texto1 = 'mundo';
 
@@ -50,5 +49,3 @@
     // Outra forma de escrever senha.length com notação de colchetes
 
     console.log(senha["length"]);
-
-</script>

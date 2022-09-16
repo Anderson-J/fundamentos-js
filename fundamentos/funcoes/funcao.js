@@ -1,4 +1,3 @@
-<script>
     // Existem 3 formas de imprimir funções no Js
     
     function imprimeTexto(texto) {
@@ -16,5 +15,3 @@
     console.log(soma());
 
     imprimeTexto(soma());
-
-</script>

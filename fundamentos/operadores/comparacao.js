@@ -1,4 +1,3 @@
-<script>
     // Operadores de comparação
 
     // Comparação implícita
@@ -25,4 +24,3 @@
     // ||: Operador "ou"
     // &&: Operador "e"
     // != e !==: Operador não igual e estritamente não igual
-</script>

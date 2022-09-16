@@ -1,4 +1,3 @@
-<script>
     // Tipo number
 
     const meuNumero = 3;
@@ -25,4 +24,3 @@
     const alura = "Alura";
 
     console.log(alura * primeiroNumero);
-</script>

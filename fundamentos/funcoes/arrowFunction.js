@@ -1,4 +1,3 @@
-<script>
     // Declaração de função comum
     function apresentarNome() {
         return `Meu nome é: ${nome}`;
@@ -27,5 +26,3 @@
     const exibeMensagemDeAcerto = () => `Você acertou`;
 
     // Quanto ao "hoisting" a arrow function se comporta da mesma maneira que expressões de função
-
-</script>

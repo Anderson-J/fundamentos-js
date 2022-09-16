@@ -1,4 +1,3 @@
-<script>
     // Declaração de função:
 
     function soma(num1, num2) {
@@ -50,4 +49,3 @@
     console.log(bomDia());
 
     const bomDia = function() {return "Bom dia!";} // Erro de declaração
-</script>

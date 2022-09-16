@@ -1,4 +1,3 @@
-<script>
     // Variáveis podem ser declaradas de três maneiras, utilizando as palavras chave reservadas: "var", "let" e "cosnt"
 
     // Declaração com "var":
@@ -46,5 +45,3 @@
     const arrayConstante = []; // nesse caso é possível colocar outros itens dentro do array, "modificando" a variável "const"
 
     // Variáveis do tipo "const" não trocam de valor, possuem um valor constante, porém quando declaramos uma variável do tipo "const" como um tipo array o Js por ser dinamico "prevê" um espaço de array na memória e um array pode ser preenchido da forma que for necessária, devido a isso mesmo que uma variável do tipo "const" seja declarada quando se trata de array, o valores dentro dele podem ou não ser mutáveis
-
-</script>

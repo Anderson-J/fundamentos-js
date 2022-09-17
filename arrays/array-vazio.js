@@ -1,4 +1,3 @@
-<script>
     const arrayVazio = [];
 
     console.log(arrayVazio);
@@ -18,4 +17,3 @@
 
     console.log(arrayVazio);
     console.log(arrayVazio.length)
-</script>

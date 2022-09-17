@@ -1,4 +1,3 @@
-<script>
     const nomes = ['Ana', 'Ju', 'Leo', 'Paula'];
 
     function imprimeNome(nome) {
@@ -6,4 +5,3 @@
     }
 
     nomes.forEach(imprimeNome);
-</script>

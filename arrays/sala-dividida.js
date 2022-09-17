@@ -1,4 +1,3 @@
-<script>
     const nomes = ['João', 'Juliana', 'Ana', 'Caio', 'Lara', 'Marjorie', 'Guilherme', 'Aline', 'Fabiana', 'Andre', 'Carlos', 'Paulo', 'Bia', 'Vivian', 'Isabela', 'Vinicius', 'Renan', 'Renata', 'Daisy', 'Camilo'];
 
     // O primeiro parâmetro indica o índice ao qual irá inicial a contagem e o segundo parâmetro até onde vai essa contagem, excluindo o último item
@@ -8,4 +7,3 @@
 
     console.log(`Alunos da sala 1: ${sala1}`);
     console.log(`Alunos da sala 2: ${sala2}`);
-</script>

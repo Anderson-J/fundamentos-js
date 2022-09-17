@@ -1,4 +1,3 @@
-<script>
     // Ana e Caio sairam da escola e Rodrigo entrou na escola, atualize a lista
 
     const listaDeChamada = ['João', 'Ana', 'Caio', 'Lara', 'Marjorie', 'Leo'];
@@ -14,4 +13,3 @@
     // Lembrando que no caso do método splice o Array original é alterado, diferente do método slice
 
     console.log(`Lista de chamada atualizada: ${listaDeChamada}`);
-</script>

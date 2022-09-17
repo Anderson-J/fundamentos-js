@@ -1,4 +1,3 @@
-<script>
     // Médias 10, 6.5, 8, 7.5
 
     const nota1 = 10;
@@ -15,4 +14,3 @@
     const outraMedia = (notas[0] + notas[1] + notas[2] + notas[3] + notas[4]) / notas.length;
 
     console.log(outraMedia);
-</script>

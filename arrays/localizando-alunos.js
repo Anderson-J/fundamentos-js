@@ -1,4 +1,3 @@
-<script>
     const alunos = ['João', 'Juliana', 'Caio', 'Ana'];
     const mediaDosAlunos = [10, 7, 9, 6];
 
@@ -19,4 +18,3 @@
     console.log(exibeNomeENota('Ana'));
 
     console.log(exibeNomeENota('José'));
-</script>

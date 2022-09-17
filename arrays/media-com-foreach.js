@@ -1,4 +1,3 @@
-<script>
     // Calcule a media das notas usando foreach
 
     const notas = [10, 6.5, 8, 7.5];
@@ -14,4 +13,3 @@
     })
 
     console.log(mediaFinal);
-</script>

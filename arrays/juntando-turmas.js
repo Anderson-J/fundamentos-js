@@ -1,4 +1,3 @@
-<script>
     // Junte as duas turmas
 
     const salaDePython = ['Melissa', 'Helena', 'Rodrigo'];
@@ -7,4 +6,3 @@
     const salaUnificada = salaDePython.concat(salaDeJavascript);
 
     console.log(salaUnificada);
-</script>
